@@ -1,0 +1,14 @@
+Link to the burndown chart is: https://docs.google.com/spreadsheets/d/1CY0avqSosGBD_qET9J6Qxqtxe4IH5gxHfHtHbVAAFJw/edit#gid=1060632366
+Features that will be implemented by the end of the semester:
+Odraft:Command to draft a player for a leaguemember 
+Idraft: Command to draft a player for user
+Overall: Command to print the rankings of all the players for a given position
+POverall: Command to print the rankings of all the pitchers in the league 
+Team: Command to print the current team drafted by a leaguemember
+Stars: Command to print the current team drafted by a leaguemember in the order they were drafted 
+Save: Command to save current state of the draft in a text file
+Quit: Command to terminate the program and prompt the user to save 
+Restore: Command to restore previous version of draft 
+Evalfun: Command to view statistics on batters in the league based on a particular stat the user chooses
+PEvalfun: Command to view statistics on pitchers in the league based on a particular stat the user chooses
+Help: Command to show list of commands for user. 
